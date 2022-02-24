@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fWnmiXD84aN5pWstILCPwF97QzYraQnJkQqNCbVWWN1ZsKKwsnKnv1Oa5/pBYL0QRjxDSXumteVqENLRpxXX7g==",
+  "dgSpecHash": "hboq5wcg1xxoGH9GGFy6AN/56IMZPogewoFNGiwkLm0l5MuKgtw4QdhLezuquut2lA+KG2aq2zTucUAxgcO6nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Computer\\Desktop\\Calculator-master\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\Computer\\Desktop\\csharp\\Windows Scientific Calculator\\Scientific-Calculator\\Windows Scientific Calculator\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

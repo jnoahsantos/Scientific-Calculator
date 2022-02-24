@@ -546,16 +546,16 @@ namespace Calculator
             this.groupPreview.Controls.Add(this.preview1);
             this.groupPreview.Location = new System.Drawing.Point(13, 12);
             this.groupPreview.Name = "groupPreview";
-            this.groupPreview.Size = new System.Drawing.Size(584, 116);
+            this.groupPreview.Size = new System.Drawing.Size(584, 130);
             this.groupPreview.TabIndex = 56;
             this.groupPreview.TabStop = false;
             // 
             // preview2
             // 
             this.preview2.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.preview2.Location = new System.Drawing.Point(6, 19);
+            this.preview2.Location = new System.Drawing.Point(6, 8);
             this.preview2.Name = "preview2";
-            this.preview2.Size = new System.Drawing.Size(572, 50);
+            this.preview2.Size = new System.Drawing.Size(572, 72);
             this.preview2.TabIndex = 1;
             this.preview2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
@@ -563,7 +563,7 @@ namespace Calculator
             // 
             this.preview1.BackColor = System.Drawing.Color.White;
             this.preview1.Font = new System.Drawing.Font("Cambria", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.preview1.Location = new System.Drawing.Point(6, 69);
+            this.preview1.Location = new System.Drawing.Point(6, 80);
             this.preview1.Name = "preview1";
             this.preview1.Size = new System.Drawing.Size(572, 37);
             this.preview1.TabIndex = 0;
