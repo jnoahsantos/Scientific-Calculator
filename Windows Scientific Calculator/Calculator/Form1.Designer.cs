@@ -75,10 +75,10 @@ namespace Calculator
             // 
             // angleButton
             // 
-            this.angleButton.BackColor = System.Drawing.Color.SkyBlue;
+            this.angleButton.BackColor = System.Drawing.Color.LightSkyBlue;
             this.angleButton.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.angleButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.angleButton.Location = new System.Drawing.Point(12, 146);
+            this.angleButton.Location = new System.Drawing.Point(3, 187);
             this.angleButton.Name = "angleButton";
             this.angleButton.Size = new System.Drawing.Size(100, 40);
             this.angleButton.TabIndex = 2;
@@ -88,10 +88,10 @@ namespace Calculator
             // 
             // changeTrigoButton
             // 
-            this.changeTrigoButton.BackColor = System.Drawing.Color.SkyBlue;
+            this.changeTrigoButton.BackColor = System.Drawing.Color.LightSkyBlue;
             this.changeTrigoButton.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.changeTrigoButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.changeTrigoButton.Location = new System.Drawing.Point(12, 185);
+            this.changeTrigoButton.Location = new System.Drawing.Point(3, 226);
             this.changeTrigoButton.Name = "changeTrigoButton";
             this.changeTrigoButton.Size = new System.Drawing.Size(100, 40);
             this.changeTrigoButton.TabIndex = 11;
@@ -101,10 +101,10 @@ namespace Calculator
             // 
             // cotButton
             // 
-            this.cotButton.BackColor = System.Drawing.Color.SkyBlue;
+            this.cotButton.BackColor = System.Drawing.Color.LightSkyBlue;
             this.cotButton.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.cotButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.cotButton.Location = new System.Drawing.Point(508, 185);
+            this.cotButton.Location = new System.Drawing.Point(497, 226);
             this.cotButton.Name = "cotButton";
             this.cotButton.Size = new System.Drawing.Size(100, 40);
             this.cotButton.TabIndex = 19;
@@ -114,10 +114,10 @@ namespace Calculator
             // 
             // cscButton
             // 
-            this.cscButton.BackColor = System.Drawing.Color.SkyBlue;
+            this.cscButton.BackColor = System.Drawing.Color.LightSkyBlue;
             this.cscButton.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.cscButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.cscButton.Location = new System.Drawing.Point(409, 185);
+            this.cscButton.Location = new System.Drawing.Point(398, 226);
             this.cscButton.Name = "cscButton";
             this.cscButton.Size = new System.Drawing.Size(100, 40);
             this.cscButton.TabIndex = 20;
@@ -127,10 +127,10 @@ namespace Calculator
             // 
             // secButton
             // 
-            this.secButton.BackColor = System.Drawing.Color.SkyBlue;
+            this.secButton.BackColor = System.Drawing.Color.LightSkyBlue;
             this.secButton.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.secButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.secButton.Location = new System.Drawing.Point(310, 185);
+            this.secButton.Location = new System.Drawing.Point(299, 226);
             this.secButton.Name = "secButton";
             this.secButton.Size = new System.Drawing.Size(100, 40);
             this.secButton.TabIndex = 21;
@@ -140,10 +140,10 @@ namespace Calculator
             // 
             // hypButton
             // 
-            this.hypButton.BackColor = System.Drawing.Color.SkyBlue;
+            this.hypButton.BackColor = System.Drawing.Color.LightSkyBlue;
             this.hypButton.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.hypButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.hypButton.Location = new System.Drawing.Point(409, 146);
+            this.hypButton.Location = new System.Drawing.Point(398, 187);
             this.hypButton.Name = "hypButton";
             this.hypButton.Size = new System.Drawing.Size(100, 40);
             this.hypButton.TabIndex = 22;
@@ -153,10 +153,10 @@ namespace Calculator
             // 
             // tanButton
             // 
-            this.tanButton.BackColor = System.Drawing.Color.SkyBlue;
+            this.tanButton.BackColor = System.Drawing.Color.LightSkyBlue;
             this.tanButton.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.tanButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.tanButton.Location = new System.Drawing.Point(310, 146);
+            this.tanButton.Location = new System.Drawing.Point(299, 187);
             this.tanButton.Name = "tanButton";
             this.tanButton.Size = new System.Drawing.Size(100, 40);
             this.tanButton.TabIndex = 23;
@@ -166,10 +166,10 @@ namespace Calculator
             // 
             // cosButton
             // 
-            this.cosButton.BackColor = System.Drawing.Color.SkyBlue;
+            this.cosButton.BackColor = System.Drawing.Color.LightSkyBlue;
             this.cosButton.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.cosButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.cosButton.Location = new System.Drawing.Point(211, 146);
+            this.cosButton.Location = new System.Drawing.Point(200, 187);
             this.cosButton.Name = "cosButton";
             this.cosButton.Size = new System.Drawing.Size(100, 40);
             this.cosButton.TabIndex = 24;
@@ -179,10 +179,10 @@ namespace Calculator
             // 
             // sinButton
             // 
-            this.sinButton.BackColor = System.Drawing.Color.SkyBlue;
+            this.sinButton.BackColor = System.Drawing.Color.LightSkyBlue;
             this.sinButton.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.sinButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.sinButton.Location = new System.Drawing.Point(112, 146);
+            this.sinButton.Location = new System.Drawing.Point(101, 187);
             this.sinButton.Name = "sinButton";
             this.sinButton.Size = new System.Drawing.Size(100, 40);
             this.sinButton.TabIndex = 25;
@@ -192,10 +192,10 @@ namespace Calculator
             // 
             // xSquaredButton
             // 
-            this.xSquaredButton.BackColor = System.Drawing.Color.SkyBlue;
+            this.xSquaredButton.BackColor = System.Drawing.Color.LightSkyBlue;
             this.xSquaredButton.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.xSquaredButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.xSquaredButton.Location = new System.Drawing.Point(12, 224);
+            this.xSquaredButton.Location = new System.Drawing.Point(2, 265);
             this.xSquaredButton.Name = "xSquaredButton";
             this.xSquaredButton.Size = new System.Drawing.Size(120, 40);
             this.xSquaredButton.TabIndex = 26;
@@ -205,10 +205,10 @@ namespace Calculator
             // 
             // squareRootButton
             // 
-            this.squareRootButton.BackColor = System.Drawing.Color.SkyBlue;
+            this.squareRootButton.BackColor = System.Drawing.Color.LightSkyBlue;
             this.squareRootButton.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.squareRootButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.squareRootButton.Location = new System.Drawing.Point(12, 263);
+            this.squareRootButton.Location = new System.Drawing.Point(2, 304);
             this.squareRootButton.Name = "squareRootButton";
             this.squareRootButton.Size = new System.Drawing.Size(120, 40);
             this.squareRootButton.TabIndex = 27;
@@ -218,10 +218,10 @@ namespace Calculator
             // 
             // exponentialTen
             // 
-            this.exponentialTen.BackColor = System.Drawing.Color.SkyBlue;
+            this.exponentialTen.BackColor = System.Drawing.Color.LightSkyBlue;
             this.exponentialTen.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.exponentialTen.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.exponentialTen.Location = new System.Drawing.Point(12, 302);
+            this.exponentialTen.Location = new System.Drawing.Point(2, 343);
             this.exponentialTen.Name = "exponentialTen";
             this.exponentialTen.Size = new System.Drawing.Size(120, 40);
             this.exponentialTen.TabIndex = 29;
@@ -231,10 +231,10 @@ namespace Calculator
             // 
             // logButton
             // 
-            this.logButton.BackColor = System.Drawing.Color.SkyBlue;
+            this.logButton.BackColor = System.Drawing.Color.LightSkyBlue;
             this.logButton.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.logButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.logButton.Location = new System.Drawing.Point(12, 341);
+            this.logButton.Location = new System.Drawing.Point(2, 382);
             this.logButton.Name = "logButton";
             this.logButton.Size = new System.Drawing.Size(120, 40);
             this.logButton.TabIndex = 30;
@@ -244,10 +244,10 @@ namespace Calculator
             // 
             // lnButton
             // 
-            this.lnButton.BackColor = System.Drawing.Color.SkyBlue;
+            this.lnButton.BackColor = System.Drawing.Color.LightSkyBlue;
             this.lnButton.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lnButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.lnButton.Location = new System.Drawing.Point(12, 381);
+            this.lnButton.Location = new System.Drawing.Point(2, 420);
             this.lnButton.Name = "lnButton";
             this.lnButton.Size = new System.Drawing.Size(120, 40);
             this.lnButton.TabIndex = 31;
@@ -257,10 +257,10 @@ namespace Calculator
             // 
             // buttonOverX
             // 
-            this.buttonOverX.BackColor = System.Drawing.Color.SkyBlue;
+            this.buttonOverX.BackColor = System.Drawing.Color.LightSkyBlue;
             this.buttonOverX.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonOverX.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonOverX.Location = new System.Drawing.Point(112, 186);
+            this.buttonOverX.Location = new System.Drawing.Point(101, 226);
             this.buttonOverX.Name = "buttonOverX";
             this.buttonOverX.Size = new System.Drawing.Size(100, 40);
             this.buttonOverX.TabIndex = 32;
@@ -269,10 +269,10 @@ namespace Calculator
             // 
             // buttonAbsolute
             // 
-            this.buttonAbsolute.BackColor = System.Drawing.Color.SkyBlue;
+            this.buttonAbsolute.BackColor = System.Drawing.Color.LightSkyBlue;
             this.buttonAbsolute.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonAbsolute.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonAbsolute.Location = new System.Drawing.Point(211, 186);
+            this.buttonAbsolute.Location = new System.Drawing.Point(200, 226);
             this.buttonAbsolute.Name = "buttonAbsolute";
             this.buttonAbsolute.Size = new System.Drawing.Size(100, 40);
             this.buttonAbsolute.TabIndex = 33;
@@ -282,10 +282,10 @@ namespace Calculator
             // 
             // buttonOpenParen
             // 
-            this.buttonOpenParen.BackColor = System.Drawing.Color.SkyBlue;
+            this.buttonOpenParen.BackColor = System.Drawing.Color.LightSkyBlue;
             this.buttonOpenParen.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonOpenParen.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonOpenParen.Location = new System.Drawing.Point(131, 224);
+            this.buttonOpenParen.Location = new System.Drawing.Point(121, 265);
             this.buttonOpenParen.Name = "buttonOpenParen";
             this.buttonOpenParen.Size = new System.Drawing.Size(120, 40);
             this.buttonOpenParen.TabIndex = 36;
@@ -295,10 +295,10 @@ namespace Calculator
             // 
             // buttonCloseParen
             // 
-            this.buttonCloseParen.BackColor = System.Drawing.Color.SkyBlue;
+            this.buttonCloseParen.BackColor = System.Drawing.Color.LightSkyBlue;
             this.buttonCloseParen.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonCloseParen.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonCloseParen.Location = new System.Drawing.Point(250, 224);
+            this.buttonCloseParen.Location = new System.Drawing.Point(240, 265);
             this.buttonCloseParen.Name = "buttonCloseParen";
             this.buttonCloseParen.Size = new System.Drawing.Size(120, 40);
             this.buttonCloseParen.TabIndex = 37;
@@ -308,10 +308,10 @@ namespace Calculator
             // 
             // buttonFactorial
             // 
-            this.buttonFactorial.BackColor = System.Drawing.Color.SkyBlue;
+            this.buttonFactorial.BackColor = System.Drawing.Color.LightSkyBlue;
             this.buttonFactorial.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonFactorial.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonFactorial.Location = new System.Drawing.Point(369, 224);
+            this.buttonFactorial.Location = new System.Drawing.Point(359, 265);
             this.buttonFactorial.Name = "buttonFactorial";
             this.buttonFactorial.Size = new System.Drawing.Size(120, 40);
             this.buttonFactorial.TabIndex = 38;
@@ -321,10 +321,10 @@ namespace Calculator
             // 
             // buttonDivide
             // 
-            this.buttonDivide.BackColor = System.Drawing.Color.Tomato;
+            this.buttonDivide.BackColor = System.Drawing.Color.IndianRed;
             this.buttonDivide.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonDivide.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonDivide.Location = new System.Drawing.Point(488, 224);
+            this.buttonDivide.Location = new System.Drawing.Point(478, 265);
             this.buttonDivide.Name = "buttonDivide";
             this.buttonDivide.Size = new System.Drawing.Size(120, 40);
             this.buttonDivide.TabIndex = 39;
@@ -334,10 +334,10 @@ namespace Calculator
             // 
             // button7
             // 
-            this.button7.BackColor = System.Drawing.Color.Gold;
+            this.button7.BackColor = System.Drawing.Color.Khaki;
             this.button7.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button7.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button7.Location = new System.Drawing.Point(131, 263);
+            this.button7.Location = new System.Drawing.Point(121, 304);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(120, 40);
             this.button7.TabIndex = 40;
@@ -347,10 +347,10 @@ namespace Calculator
             // 
             // button8
             // 
-            this.button8.BackColor = System.Drawing.Color.Gold;
+            this.button8.BackColor = System.Drawing.Color.Khaki;
             this.button8.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button8.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button8.Location = new System.Drawing.Point(250, 263);
+            this.button8.Location = new System.Drawing.Point(240, 304);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(120, 40);
             this.button8.TabIndex = 41;
@@ -360,10 +360,10 @@ namespace Calculator
             // 
             // button9
             // 
-            this.button9.BackColor = System.Drawing.Color.Gold;
+            this.button9.BackColor = System.Drawing.Color.Khaki;
             this.button9.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button9.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button9.Location = new System.Drawing.Point(369, 263);
+            this.button9.Location = new System.Drawing.Point(359, 304);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(120, 40);
             this.button9.TabIndex = 42;
@@ -373,10 +373,10 @@ namespace Calculator
             // 
             // buttonMultiply
             // 
-            this.buttonMultiply.BackColor = System.Drawing.Color.Tomato;
+            this.buttonMultiply.BackColor = System.Drawing.Color.IndianRed;
             this.buttonMultiply.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonMultiply.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonMultiply.Location = new System.Drawing.Point(488, 263);
+            this.buttonMultiply.Location = new System.Drawing.Point(478, 304);
             this.buttonMultiply.Name = "buttonMultiply";
             this.buttonMultiply.Size = new System.Drawing.Size(120, 40);
             this.buttonMultiply.TabIndex = 43;
@@ -386,10 +386,10 @@ namespace Calculator
             // 
             // button6
             // 
-            this.button6.BackColor = System.Drawing.Color.Gold;
+            this.button6.BackColor = System.Drawing.Color.Khaki;
             this.button6.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button6.Location = new System.Drawing.Point(369, 302);
+            this.button6.Location = new System.Drawing.Point(359, 343);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(120, 40);
             this.button6.TabIndex = 46;
@@ -399,10 +399,10 @@ namespace Calculator
             // 
             // button5
             // 
-            this.button5.BackColor = System.Drawing.Color.Gold;
+            this.button5.BackColor = System.Drawing.Color.Khaki;
             this.button5.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button5.Location = new System.Drawing.Point(250, 302);
+            this.button5.Location = new System.Drawing.Point(240, 343);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(120, 40);
             this.button5.TabIndex = 45;
@@ -412,10 +412,10 @@ namespace Calculator
             // 
             // button4
             // 
-            this.button4.BackColor = System.Drawing.Color.Gold;
+            this.button4.BackColor = System.Drawing.Color.Khaki;
             this.button4.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button4.Location = new System.Drawing.Point(131, 302);
+            this.button4.Location = new System.Drawing.Point(121, 343);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(120, 40);
             this.button4.TabIndex = 44;
@@ -425,10 +425,10 @@ namespace Calculator
             // 
             // button3
             // 
-            this.button3.BackColor = System.Drawing.Color.Gold;
+            this.button3.BackColor = System.Drawing.Color.Khaki;
             this.button3.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button3.Location = new System.Drawing.Point(369, 341);
+            this.button3.Location = new System.Drawing.Point(359, 382);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(120, 40);
             this.button3.TabIndex = 49;
@@ -438,10 +438,10 @@ namespace Calculator
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.Color.Gold;
+            this.button2.BackColor = System.Drawing.Color.Khaki;
             this.button2.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button2.Location = new System.Drawing.Point(250, 341);
+            this.button2.Location = new System.Drawing.Point(240, 382);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(120, 40);
             this.button2.TabIndex = 48;
@@ -451,10 +451,10 @@ namespace Calculator
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.Gold;
+            this.button1.BackColor = System.Drawing.Color.Khaki;
             this.button1.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button1.Location = new System.Drawing.Point(131, 341);
+            this.button1.Location = new System.Drawing.Point(121, 382);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(120, 40);
             this.button1.TabIndex = 47;
@@ -464,10 +464,10 @@ namespace Calculator
             // 
             // buttonSubtract
             // 
-            this.buttonSubtract.BackColor = System.Drawing.Color.Tomato;
+            this.buttonSubtract.BackColor = System.Drawing.Color.IndianRed;
             this.buttonSubtract.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonSubtract.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonSubtract.Location = new System.Drawing.Point(488, 302);
+            this.buttonSubtract.Location = new System.Drawing.Point(478, 343);
             this.buttonSubtract.Name = "buttonSubtract";
             this.buttonSubtract.Size = new System.Drawing.Size(120, 40);
             this.buttonSubtract.TabIndex = 50;
@@ -477,10 +477,10 @@ namespace Calculator
             // 
             // buttonAddition
             // 
-            this.buttonAddition.BackColor = System.Drawing.Color.Tomato;
+            this.buttonAddition.BackColor = System.Drawing.Color.IndianRed;
             this.buttonAddition.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonAddition.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonAddition.Location = new System.Drawing.Point(488, 341);
+            this.buttonAddition.Location = new System.Drawing.Point(478, 382);
             this.buttonAddition.Name = "buttonAddition";
             this.buttonAddition.Size = new System.Drawing.Size(120, 40);
             this.buttonAddition.TabIndex = 51;
@@ -490,10 +490,10 @@ namespace Calculator
             // 
             // buttonDot
             // 
-            this.buttonDot.BackColor = System.Drawing.Color.Gold;
+            this.buttonDot.BackColor = System.Drawing.Color.Khaki;
             this.buttonDot.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonDot.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonDot.Location = new System.Drawing.Point(369, 381);
+            this.buttonDot.Location = new System.Drawing.Point(359, 420);
             this.buttonDot.Name = "buttonDot";
             this.buttonDot.Size = new System.Drawing.Size(120, 40);
             this.buttonDot.TabIndex = 54;
@@ -503,10 +503,10 @@ namespace Calculator
             // 
             // button0
             // 
-            this.button0.BackColor = System.Drawing.Color.Gold;
+            this.button0.BackColor = System.Drawing.Color.Khaki;
             this.button0.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button0.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button0.Location = new System.Drawing.Point(250, 381);
+            this.button0.Location = new System.Drawing.Point(240, 420);
             this.button0.Name = "button0";
             this.button0.Size = new System.Drawing.Size(120, 40);
             this.button0.TabIndex = 53;
@@ -516,10 +516,10 @@ namespace Calculator
             // 
             // buttonNegativePositive
             // 
-            this.buttonNegativePositive.BackColor = System.Drawing.Color.Gold;
+            this.buttonNegativePositive.BackColor = System.Drawing.Color.Khaki;
             this.buttonNegativePositive.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonNegativePositive.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonNegativePositive.Location = new System.Drawing.Point(131, 381);
+            this.buttonNegativePositive.Location = new System.Drawing.Point(121, 420);
             this.buttonNegativePositive.Name = "buttonNegativePositive";
             this.buttonNegativePositive.Size = new System.Drawing.Size(120, 40);
             this.buttonNegativePositive.TabIndex = 52;
@@ -529,10 +529,10 @@ namespace Calculator
             // 
             // buttonEqual
             // 
-            this.buttonEqual.BackColor = System.Drawing.Color.Fuchsia;
+            this.buttonEqual.BackColor = System.Drawing.Color.RoyalBlue;
             this.buttonEqual.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonEqual.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonEqual.Location = new System.Drawing.Point(488, 381);
+            this.buttonEqual.Location = new System.Drawing.Point(478, 420);
             this.buttonEqual.Name = "buttonEqual";
             this.buttonEqual.Size = new System.Drawing.Size(120, 40);
             this.buttonEqual.TabIndex = 55;
@@ -544,28 +544,28 @@ namespace Calculator
             // 
             this.groupPreview.Controls.Add(this.preview2);
             this.groupPreview.Controls.Add(this.preview1);
-            this.groupPreview.Location = new System.Drawing.Point(12, 12);
+            this.groupPreview.Location = new System.Drawing.Point(13, 12);
             this.groupPreview.Name = "groupPreview";
-            this.groupPreview.Size = new System.Drawing.Size(596, 88);
+            this.groupPreview.Size = new System.Drawing.Size(584, 116);
             this.groupPreview.TabIndex = 56;
             this.groupPreview.TabStop = false;
             // 
             // preview2
             // 
-            this.preview2.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.preview2.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.preview2.Location = new System.Drawing.Point(6, 19);
             this.preview2.Name = "preview2";
-            this.preview2.Size = new System.Drawing.Size(584, 23);
+            this.preview2.Size = new System.Drawing.Size(572, 50);
             this.preview2.TabIndex = 1;
             this.preview2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // preview1
             // 
             this.preview1.BackColor = System.Drawing.Color.White;
-            this.preview1.Font = new System.Drawing.Font("Arial Black", 22F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.preview1.Location = new System.Drawing.Point(6, 45);
+            this.preview1.Font = new System.Drawing.Font("Cambria", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.preview1.Location = new System.Drawing.Point(6, 69);
             this.preview1.Name = "preview1";
-            this.preview1.Size = new System.Drawing.Size(584, 40);
+            this.preview1.Size = new System.Drawing.Size(572, 37);
             this.preview1.TabIndex = 0;
             this.preview1.Text = "0";
             this.preview1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -573,10 +573,10 @@ namespace Calculator
             // 
             // eraseButton
             // 
-            this.eraseButton.BackColor = System.Drawing.Color.SkyBlue;
+            this.eraseButton.BackColor = System.Drawing.Color.LightSkyBlue;
             this.eraseButton.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.eraseButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.eraseButton.Location = new System.Drawing.Point(508, 146);
+            this.eraseButton.Location = new System.Drawing.Point(497, 187);
             this.eraseButton.Name = "eraseButton";
             this.eraseButton.Size = new System.Drawing.Size(100, 40);
             this.eraseButton.TabIndex = 57;
@@ -586,12 +586,12 @@ namespace Calculator
             // 
             // clearButton
             // 
-            this.clearButton.BackColor = System.Drawing.Color.SkyBlue;
+            this.clearButton.BackColor = System.Drawing.Color.LightSkyBlue;
             this.clearButton.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.clearButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.clearButton.Location = new System.Drawing.Point(508, 107);
+            this.clearButton.Location = new System.Drawing.Point(477, 148);
             this.clearButton.Name = "clearButton";
-            this.clearButton.Size = new System.Drawing.Size(100, 40);
+            this.clearButton.Size = new System.Drawing.Size(120, 40);
             this.clearButton.TabIndex = 58;
             this.clearButton.Text = "C";
             this.clearButton.UseVisualStyleBackColor = false;
@@ -602,7 +602,7 @@ namespace Calculator
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(620, 432);
+            this.ClientSize = new System.Drawing.Size(600, 460);
             this.Controls.Add(this.clearButton);
             this.Controls.Add(this.eraseButton);
             this.Controls.Add(this.groupPreview);
@@ -642,13 +642,12 @@ namespace Calculator
             this.Controls.Add(this.cotButton);
             this.Controls.Add(this.changeTrigoButton);
             this.Controls.Add(this.angleButton);
-            this.ForeColor = System.Drawing.Color.Black;
+            this.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
-            this.MaximumSize = new System.Drawing.Size(750, 700);
+            this.MaximumSize = new System.Drawing.Size(700, 1000);
             this.MinimumSize = new System.Drawing.Size(519, 419);
             this.Name = "Form1";
             this.Text = "Scientific Calculator";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupPreview.ResumeLayout(false);
             this.ResumeLayout(false);
 
