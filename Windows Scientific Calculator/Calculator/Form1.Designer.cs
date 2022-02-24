@@ -70,6 +70,7 @@ namespace Calculator
             this.preview1 = new System.Windows.Forms.Label();
             this.eraseButton = new System.Windows.Forms.Button();
             this.clearButton = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.groupPreview.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -247,7 +248,7 @@ namespace Calculator
             this.lnButton.BackColor = System.Drawing.Color.LightSkyBlue;
             this.lnButton.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lnButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.lnButton.Location = new System.Drawing.Point(2, 434);
+            this.lnButton.Location = new System.Drawing.Point(2, 435);
             this.lnButton.Name = "lnButton";
             this.lnButton.Size = new System.Drawing.Size(120, 40);
             this.lnButton.TabIndex = 31;
@@ -493,7 +494,7 @@ namespace Calculator
             this.buttonDot.BackColor = System.Drawing.Color.Khaki;
             this.buttonDot.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonDot.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonDot.Location = new System.Drawing.Point(359, 434);
+            this.buttonDot.Location = new System.Drawing.Point(359, 435);
             this.buttonDot.Name = "buttonDot";
             this.buttonDot.Size = new System.Drawing.Size(120, 40);
             this.buttonDot.TabIndex = 54;
@@ -506,7 +507,7 @@ namespace Calculator
             this.button0.BackColor = System.Drawing.Color.Khaki;
             this.button0.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button0.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button0.Location = new System.Drawing.Point(240, 434);
+            this.button0.Location = new System.Drawing.Point(240, 435);
             this.button0.Name = "button0";
             this.button0.Size = new System.Drawing.Size(120, 40);
             this.button0.TabIndex = 53;
@@ -519,7 +520,7 @@ namespace Calculator
             this.buttonNegativePositive.BackColor = System.Drawing.Color.Khaki;
             this.buttonNegativePositive.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonNegativePositive.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonNegativePositive.Location = new System.Drawing.Point(121, 434);
+            this.buttonNegativePositive.Location = new System.Drawing.Point(121, 435);
             this.buttonNegativePositive.Name = "buttonNegativePositive";
             this.buttonNegativePositive.Size = new System.Drawing.Size(120, 40);
             this.buttonNegativePositive.TabIndex = 52;
@@ -532,7 +533,7 @@ namespace Calculator
             this.buttonEqual.BackColor = System.Drawing.Color.RoyalBlue;
             this.buttonEqual.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonEqual.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonEqual.Location = new System.Drawing.Point(478, 434);
+            this.buttonEqual.Location = new System.Drawing.Point(478, 435);
             this.buttonEqual.Name = "buttonEqual";
             this.buttonEqual.Size = new System.Drawing.Size(120, 40);
             this.buttonEqual.TabIndex = 55;
@@ -544,7 +545,7 @@ namespace Calculator
             // 
             this.groupPreview.Controls.Add(this.preview2);
             this.groupPreview.Controls.Add(this.preview1);
-            this.groupPreview.Location = new System.Drawing.Point(13, 26);
+            this.groupPreview.Location = new System.Drawing.Point(9, 26);
             this.groupPreview.Name = "groupPreview";
             this.groupPreview.Size = new System.Drawing.Size(584, 130);
             this.groupPreview.TabIndex = 56;
@@ -597,12 +598,26 @@ namespace Calculator
             this.clearButton.UseVisualStyleBackColor = false;
             this.clearButton.Click += new System.EventHandler(this.clearButton_Click);
             // 
+            // textBox1
+            // 
+            this.textBox1.BackColor = System.Drawing.SystemColors.Control;
+            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox1.Cursor = System.Windows.Forms.Cursors.No;
+            this.textBox1.Font = new System.Drawing.Font("Times New Roman", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.textBox1.Location = new System.Drawing.Point(3, -1);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(595, 32);
+            this.textBox1.TabIndex = 59;
+            this.textBox1.Text = "Scientific Calculator";
+            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(600, 474);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.clearButton);
             this.Controls.Add(this.eraseButton);
             this.Controls.Add(this.groupPreview);
@@ -651,6 +666,7 @@ namespace Calculator
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupPreview.ResumeLayout(false);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -696,6 +712,7 @@ namespace Calculator
         private System.Windows.Forms.Label preview1;
         private System.Windows.Forms.Button eraseButton;
         private System.Windows.Forms.Button clearButton;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }
 
