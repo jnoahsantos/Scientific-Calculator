@@ -102,6 +102,7 @@ namespace Calculator
             InitializeComponent();
         }
 
+            
         private void angleButton_Click(object sender, EventArgs e)
         {
             if (angleButton.Text == "DEG")
@@ -197,6 +198,7 @@ namespace Calculator
                 squared = false;
             }
             preview1.Text += selectedNumber;
+
         }
         private void button1_Click(object sender, EventArgs e)
         {
@@ -592,9 +594,9 @@ namespace Calculator
             {
                 clearButton.Text = "C";
             }
-            if(preview1.Text == "NaN" || preview1.Text == "∞")
+            if (preview1.Text == "NaN" || preview1.Text == "∞")
             {
-                for(int i = 0; i < buttons.Length; i++)
+                for (int i = 0; i < buttons.Length; i++)
                 {
                     buttons[i].Enabled = false;
                 }
@@ -606,6 +608,9 @@ namespace Calculator
                     buttons[i].Enabled = true;
                 }
             }
+
+
+           
         }
 
         private void buttonNegativePositive_Click(object sender, EventArgs e)
@@ -1109,11 +1114,6 @@ namespace Calculator
                     LNSupport();
                     break;
             }
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
