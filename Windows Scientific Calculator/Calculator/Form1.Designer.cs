@@ -268,6 +268,7 @@ namespace Calculator
             this.buttonOverX.TabIndex = 32;
             this.buttonOverX.Text = "1/x";
             this.buttonOverX.UseVisualStyleBackColor = false;
+            this.buttonOverX.Click += new System.EventHandler(this.buttonOverX_Click);
             // 
             // buttonAbsolute
             // 
